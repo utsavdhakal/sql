@@ -1,0 +1,1 @@
+SELECT LOWER("HELLO WORLD") as lower;
